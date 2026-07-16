@@ -216,9 +216,10 @@ images/
 
 # Author
 
-**Shubham Jagtap**
+**Shubham Jagtap** 
+Shubhamjagtap2103@gmail.com
 
 Aspiring Data Analyst
 
 Skills:
-Excel • SQL • Power BI • Tableau • Python (Learning)
+Excel • SQL • Power BI • Tableau • Python 
